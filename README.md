@@ -53,7 +53,7 @@ alt="Typing SVG" />
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,c" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -62,16 +62,10 @@ alt="Typing SVG" />
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-### 📊 Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-</p>
-
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,angular,php" />
 </p>
 
 ### 🗄️ Database & Tools
